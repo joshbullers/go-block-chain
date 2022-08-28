@@ -1,2 +1,2 @@
-# go-block-chain
+# go-blockchain
 Playing with blockchain in Go
